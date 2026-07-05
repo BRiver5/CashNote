@@ -1,0 +1,20 @@
+# Node / Expo
+app/node_modules/
+app/.expo/
+app/dist/
+app/.env
+app/*.log
+
+# Python
+server/.venv/
+server/__pycache__/
+server/**/__pycache__/
+server/*.db
+server/cashnote.db
+
+# Release artifacts (AAB, store texts, creo assets)
+release/
+
+# OS
+.DS_Store
+Thumbs.db
